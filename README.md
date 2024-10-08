@@ -1,5 +1,3 @@
-This profile belongs to João Victor Lopez Pereira.
-
 I'm a computer science student at the Federal University of Rio de
 Janeiro with a strong interest in Functional Programming, Data
 Structures, and Scientific Computing. I focus on Scheme and LaTeX,
