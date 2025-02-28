@@ -1,4 +1,4 @@
-I'm a computer science student at the Federal University of Rio de
+A Computer Science student at the Federal University of Rio de
 Janeiro with a strong interest in Functional Programming, Data
 Structures and Scientific Computing.
 
