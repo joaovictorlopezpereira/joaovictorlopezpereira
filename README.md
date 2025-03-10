@@ -15,4 +15,4 @@ in programming.
 
 Feel free to explore! 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorlopezpereira&theme=dark&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorlopezpereira&theme=dark&langs_count=20&layout=compact)
