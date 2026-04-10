@@ -1,6 +1,6 @@
-A Computer Science student at the Federal University of Rio de
-Janeiro with a strong interest in Functional Programming, Data
-Structures and Scientific Computing.
+A Computer Science student at the Federal University of Rio de Janeiro 
+with a strong interest in Functional Programming, Applied Linear 
+Algebra and Scientific Computing.
 
 <!---
 Currently, I'm working on a scientific research project based on the
@@ -9,9 +9,8 @@ I've deepened my understanding of core programming concepts and
 paradigms.
 --->
 
-On this profile, you'll find both personal and collaborative
-repositories, with most of my work centered around tools and concepts
-in programming.
+On this profile, you'll find both personal and collaborative repositories, 
+with most of my work centered around tools and concepts in programming.
 
 Feel free to explore! 
 
